@@ -7,7 +7,7 @@ const {
     jidDecode
 } = require("@whiskeysockets/baileys");
 const pino = require("pino");
-const { smsg } = require("./CompanyInc/functions");
+const { smsg } = require("./CompanyInc/CmpyInc");
 const readline = require("readline");
 
  // Bot base de WhatsApp cr: RilzX7 Inc. \\
